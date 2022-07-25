@@ -1,4 +1,8 @@
+                                                Coding Interview Questions     
+
 # smallest-difference
+
+Difficulty: medium
 
   Write a function that takes in two non-empty arrays of integers, finds the
   pair of numbers (one from each array) whose absolute difference is closest to
